@@ -22,7 +22,8 @@ Cruise’s edge in technology is the way they have built sensors into their vehi
 - Driving at high speeds can cause Radar sensors and video cameras to behave differently due to the travel time of radio waves and the “fisheye” effect in video, the vehicle must have a sensor array that can function at all speeds.
 - Redundant cameras or LiDAR sensors to ensure the default “fields of view” are not occluded when taking corners or maneuvering in tight spaces. This is especially true for functions like parallel parking.
 
-![The first years of driverless truck adoptions, estimated by Deloitte Insights](early_years_adoptions.PNG)
+### The first years of driverless truck adoptions, estimated by Deloitte Insights
+![](early_years_adoptions.PNG)
 
 ## The Driverless Landscape
 Driverless vehicles essentially didn’t exist until the last decade, and advancements in computing power and AI learning methods have allowed the technology to grow astronomically. What was once pure science fiction is now a reality – at least for certain large urban centers like San Francisco. Within the last decade, the industry has shifted its focus from matters of plausibility to matters of practicality. Quibbles like how to administer parking tickets pale in comparison to the most serious question: How do we know for certain that a driverless vehicle is just as safe as a human-drive one? And if it isn’t safe, who is responsible?
@@ -69,7 +70,6 @@ It’s one thing to guess how a static technology, like a traditional vehicle, w
 [5]: https://www2.deloitte.com/us/en/insights/focus/future-of-mobility/autonomous-trucks-lead-the-way.html (Autonomous trucks lead the way)
 
 6. [How Cruise Uses Simulation To Speed Up Our Sensor Development](https://getcruise.com/news/blog/2020/how-cruise-uses-simulation-to-speed-up-our-sensor-development/)
-- Description of technology relating to sensor development and placement
 
 [6]: https://getcruise.com/news/blog/2020/how-cruise-uses-simulation-to-speed-up-our-sensor-development/ (How Cruise Uses Simulation To Speed Up Our Sensor Development)
 
