@@ -48,6 +48,7 @@ It’s one thing to guess how a static technology, like a traditional vehicle, w
 
 ## Sources
 
+1. [Facts about Cruise](https://getcruise.com/media-resources/)
 [1]: https://getcruise.com/media-resources/ (Facts about Cruise)
 
 2. [This 29-Year-Old Entrepreneur Was Rejected by 35 Potential Employers. Now, He's the Co-Founder of a $1 Billion Startup. Here's How.](https://www.entrepreneur.com/leadership/this-29-year-old-entrepreneur-was-rejected-by-35-potential/274693)
