@@ -1,7 +1,7 @@
 # Thriving vs Surviving - The Future of Driverless Driving
 
 ## A Brief History of Cruise
-Cruise, [founded in 2013][1] by Kyle Vogt (co-founder of Justin.tv, which would later become Twitch.tv). Dan Kan – younger brother of a Justin.tv/Twitch.tv co-founder – joins the next year. Vogt was the main force of the company, having been obsessed with the notion of driverless cars since his teenage years.
+Cruise, [founded in 2013][1] by Kyle Vogt (co-founder of Justin.tv, which would later become Twitch.tv). Dan Kan – younger brother of a Justin.tv/Twitch.tv co-founder – joins the next year. Vogt was the main force of the company, having been [obsessed][2] with the notion of driverless cars since his teenage years.
 
 In 2016 the company was sold to General Motors. Over the next couple years, GM, Softbank, and Honda invested over $6 billion into Cruise, including development of the Origin, an autonomous vehicle model. Cruise grew to over 1,000 employees. The T. Rowe Price investment firm added another $1.15 billion in 2019.
 
@@ -53,8 +53,8 @@ It’s one thing to guess how a static technology, like a traditional vehicle, w
 [1]: https://getcruise.com/media-resources/ (Facts about Cruise)
 
 2. [This 29-Year-Old Entrepreneur Was Rejected by 35 Potential Employers. Now, He's the Co-Founder of a $1 Billion Startup. Here's How.](https://www.entrepreneur.com/leadership/this-29-year-old-entrepreneur-was-rejected-by-35-potential/274693)
-- Vogt was obsessed with driverless cars since his teenage years
-- Dan Kan got into Cruise due to his connections at Justin.tv/Twitch.tv
+
+[2]: https://www.entrepreneur.com/leadership/this-29-year-old-entrepreneur-was-rejected-by-35-potential/274693 (This 29-Year-Old Entrepreneur Was Rejected by 35 Potential Employers. Now, He's the Co-Founder of a $1 Billion Startup. Here's How.)
 
 3. [Founder and CEO of GM’s self-driving car unit resigns in wake of safety problems](https://www.cnn.com/2023/11/20/business/gm-self-driving-ceo-resigns/index.html)
 - Vogt resigns after pedestrian injuries involving Cruise vehicles
